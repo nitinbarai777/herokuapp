@@ -33,6 +33,8 @@ end
 
 gem 'jquery-rails'
 gem "engineyard"
+# Use unicorn as the web server
+gem 'unicorn'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
